@@ -1,0 +1,20 @@
+After taking a year off —much to the chagrin of iPhone X owners —Apple recently released a new version of its Smart Battery Case. This time, it comes with new features, a refined design, and is available for the first the first time in a larger size.
+We went hands on with the new cases on launch day, and have been using them ever since to get a better picture of them over a longer period of time. While they still have their kinks, they are overall improved on the past designs.
+Let's dive in with a few of the basics regarding the new cases. If you are familiar with Apple's silicone iPhone cases, you'll be familiar with the Smart Battery Cases. They have the same look and feel —just with a big hump in the center. Silicone clads the outside of a rigid body lined with microfiber to help protect your phone.
+
+The top portion of the case is flexible, which serves multiple purposes. First, it makes it easy for cellular signals to pass through without covering the entire phone back in a battery. Second, it bends back to make it easy to insert your phone.
+By keeping the battery case one piece, you don't have hinges, clips, or other rigid attachments that will inevitably break as we've seen happen on third-party cases for years.
+
+The battery on the back also now extends all the way to the bottom, which gives a better appearance, allows for more capacity, and is more comfortable to hold. It also reduces that "chin" that used to sit below the bottom of the phone. This portion is now slimmed up, making the case as a whole smaller in appearance than before.
+Internally, Apple has packed a 1369mAh battery, but that doesn't tell the whole story. Instead of one large cell, Apple put in two smaller ones and wired them up together. This let them keep that amperage the same, but double the voltage. When you look at the power output in watt-hours, you get a better picture. The new cases have 10.1Wh output compared to only 8.98Wh of the last generation case.
+In usage time, we saw a good 75 percent longer use out of our iPhone XS Max with the battery case on. As an example, we put it on our phone Thursday and got through all Thursday, all Friday, and most of Saturday. We did get about 20 minutes of charge time when we used it with wired CarPlay, but otherwise, we went charger-free for the entire time.
+Whenever you charge up, the phone is always the priority. It gets the charge first, then the case gets charged up.
+
+The case uses Lightning as input, which is ideal. That means regardless of if you have the case on the phone, you only need one cable. If you use a USB-C Lightning cable with USB-C PD, you can also fast charge the case, same as the iPhone.
+
+There is a small LED on the inside of the case, useful when you're charging the case by itself —but less so when the phone is in the case.
+This all offers a lot of interoperability between the phone and the case, letting you always stay charged without changing any of your habits or cables. It even works with wireless chargers too.
+
+A concern we had was how bulky these cases would be when actually having to carry them around. This concern was amplified on the XS Max, which is the first plus-sized phone Apple has developed a battery case for.
+
+On our iPhone XS, this was mostly a non-issue. It added heft, but not enough to be a problem. We noticed the weight more readily with our iPhone XS Max. Bigger case, means a heavier one.

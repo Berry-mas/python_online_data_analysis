@@ -1,0 +1,4 @@
+# .gitignore에 추가
+12주차/total_sections_morphs.p
+팀플/파이썬을이용한온라인데이터분석_6조_분석파일.zip
+팀플/회의록 및 발표영상/*.mp4
